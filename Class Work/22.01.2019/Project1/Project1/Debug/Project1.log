@@ -1,0 +1,8 @@
+﻿  Source1.cpp
+c:\users\gamera\desktop\c++\class work\22.01.2019\project1\project1\source1.cpp(10): error C2144: syntax error: 'int' should be preceded by ')'
+c:\users\gamera\desktop\c++\class work\22.01.2019\project1\project1\source1.cpp(10): error C2660: 'PrintArr': function does not take 0 arguments
+  c:\users\gamera\desktop\c++\class work\22.01.2019\project1\project1\source1.cpp(8): note: see declaration of 'PrintArr'
+c:\users\gamera\desktop\c++\class work\22.01.2019\project1\project1\source1.cpp(10): error C2144: syntax error: 'int' should be preceded by ';'
+c:\users\gamera\desktop\c++\class work\22.01.2019\project1\project1\source1.cpp(10): error C2133: 'arr': unknown size
+c:\users\gamera\desktop\c++\class work\22.01.2019\project1\project1\source1.cpp(10): error C2062: type 'int' unexpected
+c:\users\gamera\desktop\c++\class work\22.01.2019\project1\project1\source1.cpp(10): error C2059: syntax error: ')'
