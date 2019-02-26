@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\gamera\desktop\c++\class work\26.02.19\26.02.19\source.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  26.02.19.vcxproj -> C:\Users\gamera\Desktop\c++\Class Work\26.02.19\Debug\26.02.19.exe
