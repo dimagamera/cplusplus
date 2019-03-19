@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\gamera1\desktop\c++\classwork\14.4.19\14.4.19\source.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\gamera1\desktop\c++\classwork\14.4.19\14.4.19\source.cpp(62): warning C4018: '<=': signed/unsigned mismatch
+  14.4.19.vcxproj -> C:\Users\gamera1\Desktop\c++\ClassWork\14.4.19\Debug\14.3.19.exe
